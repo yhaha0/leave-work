@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# 환경 변수 파일
+.env
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
+# 패키지 관리 도구
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 로그 파일
+*.log
+
+# 테스트 결과
+.coverage
+*.cover
+
+# 기타
+*.DS_Store
